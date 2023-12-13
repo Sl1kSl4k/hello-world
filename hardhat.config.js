@@ -13,8 +13,8 @@ module.exports = {
    networks: {
       hardhat: {},
       sepolia: {
-         url: 'https://eth-sepolia.g.alchemy.com/v2/otN4qcrN9Dhvc9zt17-6LbY1Ya5E50-A',
-         accounts: [`0xfe908dec449e7fea8d316ba522b57fcf2ffe1c975b4b52cd77fbbbde5bc78d8d`]
+         url: 'https://eth-sepolia.g.alchemy.com/v2/otN4qcrN9Dhvsfasf9zt17-6LbY1Ya453hjh50-A',
+         accounts: [`0xfe908dec449e7fe123123acv6ba522b57fcf2ffe1c975b4b52cde7jejigfbbbde5bc78d8d`]
       }
    }
 }
